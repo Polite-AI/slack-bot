@@ -1,0 +1,23 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "Passes messages from slack to https://github.com/Polite-AI/personality-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polite-AI/slack-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polite-AI/slack-bot/issues"
+  },
+  "homepage": "https://github.com/Polite-AI/slack-bot#readme",
+  "dependencies": {
+    "@slack/client": "3.14.0",
+    "personality-helper": "1.0.1"
+  }
+}
