@@ -18,6 +18,9 @@
   "homepage": "https://github.com/Polite-AI/slack-bot#readme",
   "dependencies": {
     "@slack/client": "3.14.0",
-    "personality-helper": "1.0.1"
+    "express": "4.16.1",
+    "personality-helper": "1.0.1",
+    "request": "2.83.0",
+    "request-promise-native": "1.0.5"
   }
 }
